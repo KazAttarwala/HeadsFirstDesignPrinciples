@@ -1,0 +1,32 @@
+# .NET .gitignore
+
+# Build Folders
+bin/
+obj/
+
+# Visual Studio Files
+*.user
+*.suo
+*.userprefs
+*.csproj.user
+*.vbproj.user
+*.dbmdl
+*.sln.docstates
+
+# Build Results
+*.exe
+*.dll
+*. pdb
+*.app
+*.apk
+*.svc
+
+# OS Files
+Thumbs.db
+*.DS_Store
+
+# Logs
+*.log
+
+# Others
+.vs/
