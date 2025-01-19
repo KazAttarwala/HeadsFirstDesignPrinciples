@@ -1,0 +1,14 @@
+/Users/qaisattarwala/Documents/HeadsFirstDesignPrinciples/DuckApp/bin/Debug/net9.0/DuckApp
+/Users/qaisattarwala/Documents/HeadsFirstDesignPrinciples/DuckApp/bin/Debug/net9.0/DuckApp.deps.json
+/Users/qaisattarwala/Documents/HeadsFirstDesignPrinciples/DuckApp/bin/Debug/net9.0/DuckApp.runtimeconfig.json
+/Users/qaisattarwala/Documents/HeadsFirstDesignPrinciples/DuckApp/bin/Debug/net9.0/DuckApp.dll
+/Users/qaisattarwala/Documents/HeadsFirstDesignPrinciples/DuckApp/bin/Debug/net9.0/DuckApp.pdb
+/Users/qaisattarwala/Documents/HeadsFirstDesignPrinciples/DuckApp/obj/Debug/net9.0/DuckApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qaisattarwala/Documents/HeadsFirstDesignPrinciples/DuckApp/obj/Debug/net9.0/DuckApp.AssemblyInfoInputs.cache
+/Users/qaisattarwala/Documents/HeadsFirstDesignPrinciples/DuckApp/obj/Debug/net9.0/DuckApp.AssemblyInfo.cs
+/Users/qaisattarwala/Documents/HeadsFirstDesignPrinciples/DuckApp/obj/Debug/net9.0/DuckApp.csproj.CoreCompileInputs.cache
+/Users/qaisattarwala/Documents/HeadsFirstDesignPrinciples/DuckApp/obj/Debug/net9.0/DuckApp.dll
+/Users/qaisattarwala/Documents/HeadsFirstDesignPrinciples/DuckApp/obj/Debug/net9.0/refint/DuckApp.dll
+/Users/qaisattarwala/Documents/HeadsFirstDesignPrinciples/DuckApp/obj/Debug/net9.0/DuckApp.pdb
+/Users/qaisattarwala/Documents/HeadsFirstDesignPrinciples/DuckApp/obj/Debug/net9.0/DuckApp.genruntimeconfig.cache
+/Users/qaisattarwala/Documents/HeadsFirstDesignPrinciples/DuckApp/obj/Debug/net9.0/ref/DuckApp.dll
